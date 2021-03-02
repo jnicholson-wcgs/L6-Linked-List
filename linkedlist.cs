@@ -92,7 +92,7 @@ class MainClass {
 
     public string print () {
       return "[You need to implement print()]";
-    }]
+    }
 
     // What other methods can you implement?
     // peek()
