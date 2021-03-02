@@ -1,0 +1,2 @@
+run='mcs -unsafe -out:linkedlist.exe linkedlist.cs && mono linkedlist.exe'
+language = "csharp"
