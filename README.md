@@ -4,7 +4,7 @@ Exercises for the implementation linked list
 **Task One**
 
 Implement and test completely the following methods in LinkedList class:
-- legnth()
+- length()
 - push()
 - pop()
 - print()
